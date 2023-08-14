@@ -1,0 +1,34 @@
+body {
+    color: #432;
+}
+
+.header-opt {
+    text-align: center;
+}
+
+.counter-opt {
+    text-align: center;
+}
+
+.btns {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-opt {
+    font-size: large;
+    width: 120px;
+    height: 120px;
+    background: skyblue;
+}
+
+.btn-opt:hover {
+    background-color: white;
+}
+
+/* .display-opt { */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* border-bottom: 5px solid skyblue; */
+/* } */
